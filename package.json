@@ -1,0 +1,19 @@
+{
+  "name": "react-tut",
+  "version": "1.0.0",
+  "description": "this is React tut by Harif",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "react",
+    "tut",
+    "harif"
+  ],
+  "author": "Harif Narippatta",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
