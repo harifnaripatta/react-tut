@@ -9,6 +9,13 @@ const Body = () => {
       </div>
       <div className="res-container">
         <RestaurentCard />
+        <RestaurentCard />
+        <RestaurentCard />
+        <RestaurentCard />
+        <RestaurentCard />
+        <RestaurentCard />
+        <RestaurentCard />
+        <RestaurentCard />
       </div>
     </div>
   );
