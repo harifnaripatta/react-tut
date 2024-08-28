@@ -1,0 +1,14 @@
+React.createElement => ReactElement - JS Object => HTMLElement(render)
+
+JSX - 
+- is not HTML in JS, its HTML or XML - 
+- like syntax 
+- JSX(transpiled before it reaches the JS) 
+- JSX => Babel transpiles to React.createElement =>    ReactElement-JS Object => HTMLElement(render)
+- Babel is converting code to React
+
+React Component
+-Class Based Component
+-Functional Based Component => this function is return somthing jsx that is functional Component, Function name it should be start capital letter.
+
+Component compsition => it's add component inside another component 
